@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michal Pleva</h1>
-<h3 align="center">Backend/Fullstack developer based in Slovakia</h3>
+<h3 align="center">Backend developer based in Slovakia</h3>
 
-- 🔭 I’m currently working on [eshop-api](https://github.com/MichalPleva8/eshop-api)
-
-- 🌱 I’m currently learning **Typescript, Postgresql**
+- 🌱 I’m currently learning **Solidity & Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MichalPleva8](https://github.com/MichalPleva8)
 
-- 💬 Ask me about **react, nodejs, javascript**
+- 💬 Ask me about **Advanced Node.js, Typescript, PostgreSQL**
 
 - 📫 How to reach me **michal.pleva8@gmail.com**
 
